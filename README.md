@@ -1,5 +1,6 @@
 
-# <img src="translator-icon.png" width=2.5%> Language Translator
+# <img src="translator-icon.png" width=2.5%> Penerapan Model T5 untuk Penerjemahan Mesin Aceh-Indonesia
+
 
 An app for translating from one language to another.Almost all world languages are available.
  
