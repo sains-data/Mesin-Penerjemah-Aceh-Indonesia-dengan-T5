@@ -2,8 +2,13 @@
 # <img src="translator-icon.png" width=2.5%> Penerapan Model T5 untuk Penerjemahan Mesin Aceh-Indonesia - kelompok 7
 
 
-Kelompok 7 
-Ivander Perdana Mokhtar *a, Aulia Wardani b,  Hanna Sajidah c, M. Faqih d, Berliyana Kesuma Hati e
+width=2.5%> Kelompok 7 
+
+Ivander Perdana Mokhtar 
+Aulia Wardani  
+Hanna Sajidah  
+M. Faqih  
+Berliyana Kesuma Hati 
 
  
  ## Features
