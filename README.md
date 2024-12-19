@@ -14,6 +14,7 @@ M. Faqih
 
 Berliyana Kesuma Hati 
 
+# <img src="translator-icon.png" width=2.5%> apa itu Aceh Lingua
  
  ## Features
  * Translates to any language
