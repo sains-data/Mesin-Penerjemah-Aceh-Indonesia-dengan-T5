@@ -18,14 +18,6 @@ Berliyana Kesuma Hati
 
 Aceh Lingua adalah sebuah website penerjemah bahasa Aceh ke bahasa Indonesia dengan model Transformer T5. Website ini dirancang untuk memudahkan proses penerjemahan secara cepat dan akurat, mendukung kebutuhan komunikasi lintas bahasa untuk pelestarian budaya dan bahasa lokal.
  
- ## Features
- * Translates to any language
- * App also generates an audio file of the translation
- * And lets  you download the audio file
-
-## Requirements
-
-* Streamlit - open source app framework for Machine Learning & Data Science
 
 
 
