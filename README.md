@@ -2,7 +2,9 @@
 # <img src="translator-icon.png" width=2.5%> Penerapan Model T5 untuk Penerjemahan Mesin Aceh-Indonesia
 
 
-An app for translating from one language to another.Almost all world languages are available.
+Kelompok 7 
+Ivander Perdana Mokhtar *a, Aulia Wardani b,  Hanna Sajidah c, M. Faqih d, Berliyana Kesuma Hati e
+
  
  ## Features
  * Translates to any language
