@@ -14,7 +14,7 @@ M. Faqih
 
 Berliyana Kesuma Hati 
 
-apa itu Aceh Lingua
+https://github.com/sains-data/Mesin-Penerjemah-Aceh-Indonesia-dengan-T5/blob/main/acehlingua-02.png apa itu Aceh Lingua
  
  ## Features
  * Translates to any language
