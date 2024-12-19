@@ -2,7 +2,7 @@
 # <img src="translator-icon.png" width=2.5%> Penerapan Model T5 untuk Penerjemahan Mesin Aceh-Indonesia - kelompok 7
 
 
-#width=2.5%> Kelompok 7 
+Kelompok 7 
 
 Ivander Perdana Mokhtar 
 
