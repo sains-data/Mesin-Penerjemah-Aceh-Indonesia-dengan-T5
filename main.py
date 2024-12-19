@@ -6,7 +6,7 @@ from transformers import T5Tokenizer, T5ForConditionalGeneration
 @st.cache_resource
 def load_model():
     try:
-        model = joblib.load("model_T5.pkl")
+        model = joblib.load("model_numpy.pkl")
         tokenizer = T5Tokenizer.from_pretrained("t5-base")
         return model, tokenizer
     except Exception as e:
