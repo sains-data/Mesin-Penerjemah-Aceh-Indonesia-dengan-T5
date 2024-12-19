@@ -41,24 +41,6 @@ Open the web app in Streamlit
 [![Star](https://img.shields.io/github/stars/HarisankarSNair/LanguageTranslator.svg?logo=github&style=social)](https://gitHub.com/HarisankarSNair/LanguageTranslator)
   
  
-## Authors
 
-- [@harisankarsnair](https://www.github.com/HarisankarSNair)
 
   
-## Demo
-
-App : https://share.streamlit.io/harisankarsnair/languagetranslator/main/main.py
-
-  
-## Feedback
-
-If you have any feedback, please reach out to us at https://discuss.streamlit.io/t/language-translator-web-app-simply-translate/14267
-
-  
-## Acknowledgements
-
- 
- - [Streamlit](https://streamlit.io/)
- - [Deploy your app in Streamlit](https://share.streamlit.io/)
- - [Discuss in Streamlit](https://discuss.streamlit.io/)
