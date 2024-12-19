@@ -1,5 +1,5 @@
 
-# <img src="translator-icon.png" width=2.5%> Penerapan Model T5 untuk Penerjemahan Mesin Aceh-Indonesia - kelompok 7
+# <img src="acehlingua-02.png" width=2.5%> Penerapan Model T5 untuk Penerjemahan Mesin Aceh-Indonesia - kelompok 7
 
 
 Kelompok 7 
